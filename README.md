@@ -9,3 +9,6 @@ Open a command prompt in the project (or open the solution in VS and use the Pac
 `name: aspnet-contrib source: https://www.myget.org/F/aspnet-contrib/api/v3/index.json`
 
 Run `dotnet restore` again to install the required packages.
+
+# Misc
+This application is an attempt to meet a certain number of requirements in a 60 to 90 minute time frame. I spent approximately 100 minutes building this solution. I didn't get nearly as far as I would have liked, but I believe it is a good start.
